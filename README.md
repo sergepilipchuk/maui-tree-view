@@ -41,3 +41,4 @@ You can also refer to the following YouTube video for more information on how to
 * [Drawer View](https://github.com/DevExpress-Examples/maui-drawer-view-get-started)
 * [Collection View](https://github.com/DevExpress-Examples/maui-collection-view-get-started)
 * [Popup](https://github.com/DevExpress-Examples/maui-popup-get-started)
+ 
