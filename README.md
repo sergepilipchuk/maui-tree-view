@@ -18,12 +18,12 @@ You can also refer to the following YouTube video for more information on how to
 
 ## What's in This Repository
 
-This repository contains projects that display information in a tree from [self-referential (flat)](https://docs.devexpress.com/MAUI/404899/tree-view/display-hierarchical-data#self-referential-data-structure) and [hierarchical](https://docs.devexpress.com/MAUI/404899/tree-view/display-hierarchical-data#hierarchical-data-structure) data structures.
-
-![MAUI Tree View](./img/tree-view.png)
+This repository contains projects that display information in a tree from [self-referential (flat)](https://docs.devexpress.com/MAUI/404899/tree-view/display-hierarchical-data#self-referential-data-structure) and [hierarchical](https://docs.devexpress.com/MAUI/404899/tree-view/display-hierarchical-data#hierarchical-data-structure) data structures:
 
 * [Bind Tree View to Self-Referencial Data](/CS/TreeViewWithSelfReferenceData/)
 * [Bind Tree View to Hierarchical](/CS/TreeViewWithHierarchicalData/)
+
+<img src="./img/tree-view.png" width="70%">
 
 ## Documentation
 
