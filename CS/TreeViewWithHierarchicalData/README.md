@@ -1,4 +1,4 @@
-# DevExpress .NET MAUI Tree View - Display Information from Hierarchical Data Structure
+# DevExpress .NET MAUI Tree View - Display Information from Hierarchical Data Structures
 
 This example displays information from a hierarchical data structure. The hierarchical data structure is a set of nested objects where a parent field contains child records. Refer to the following help topic for implementation details: [Tree View - Display Hierarchical Data](https://docs.devexpress.com/MAUI/404899/tree-view/display-hierarchical-data#hierarchical-data-structure)
 
