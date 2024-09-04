@@ -4,15 +4,15 @@
 
 # DevExpress Tree View for .NET MAUI
 
-[DevExpress Mobile UI](https://www.devexpress.com/maui/) allows you to use a .NET cross-platform UI toolkit and C# to create native apps for iOS and Android.
+The [DXTreeView](https://docs.devexpress.com/MAUI/DevExpress.Maui.TreeView.DXTreeView) control is part of [DevExpress Mobile UI for .NET MAUI](https://www.devexpress.com/maui/) - a development library that allows you to use a .NET cross-platform UI toolkit and C# to create native apps for iOS and Android.
 
 ![DevExpress Mobile UI for .NET MAUI](./img/maui.png)
 
-The **DevExpress Mobile UI for Xamarin.Forms and .NET MAUI** is free of charge. To learn more about our offer and get your copy, visit [Free DevExpress Mobile UI for Xamarin.Forms and .NET MAUI](https://www.devexpress.com/xamarin-free).
+For a limited time, **DevExpress Mobile UI for .NET MAUI** is available free of charge. To learn more about our offer and obtain your copy, visit the following page: [Free Offer - DevExpress Mobile UI for .NET MAUI](https://www.devexpress.com/xamarin-free).
 
 ## Requirements
 
-Please register the DevExpress NuGet Gallery in Visual Studio to restore the NuGet packages used in this solution. See the following topic for more information: [Get Started with DevExpress Mobile UI for .NET MAUI](https://docs.devexpress.com/MAUI/403249/get-started).
+Register your DevExpress NuGet Feed in Visual Studio to restore packages used in this solution. Review the following article for additional information: [Get Started with DevExpress Mobile UI for .NET MAUI](https://docs.devexpress.com/MAUI/403249/get-started).
 
 You can also refer to the following YouTube video for more information on how to get started with the DevExpress .NET MAUI Controls: [Setting up a .NET MAUI Project](https://www.youtube.com/watch?v=juJvl5UicIQ).
 
