@@ -13,4 +13,4 @@ This example displays information from self-referential data structures. To buil
 
 ## More Examples
 
-* [Tree View - Display Information from Hierarchical Data Structure](../TreeViewWithHierarchicalData/)
+* [Tree View - Display Information from Hierarchical Data Structures](../TreeViewWithHierarchicalData/)

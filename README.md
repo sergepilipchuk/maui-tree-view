@@ -18,7 +18,7 @@ You can also refer to the following YouTube video for more information on how to
 
 ## What's in This Repository
 
-This repository contains projects that populate DevExpress .NET MAUI Tree View control with data. Two types of data sources can supply values to the control: [self-referential (flat)](https://docs.devexpress.com/MAUI/404899/tree-view/display-hierarchical-data#self-referential-data-structure) and [hierarchical](https://docs.devexpress.com/MAUI/404899/tree-view/display-hierarchical-data#hierarchical-data-structure):
+This repository contains projects that populate DevExpress .NET MAUI Tree View control with [self-referential (flat)](https://docs.devexpress.com/MAUI/404899/tree-view/display-hierarchical-data#self-referential-data-structure) and [hierarchical](https://docs.devexpress.com/MAUI/404899/tree-view/display-hierarchical-data#hierarchical-data-structure) data.
 
 * [Bind Tree View to Self-Referencial Data](/CS/TreeViewWithSelfReferenceData/)
 * [Bind Tree View to Hierarchical](/CS/TreeViewWithHierarchicalData/)
